@@ -17,6 +17,6 @@
 - Building a linear model
   Linear model with all variat
   Build a linear model based ... result
-- Residual analyst of the train data
-- Making predictions using the final model
-- Model evaluation
+- Step 5: Residual analyst of the train data
+- Step 6: Making predictions using the final model
+- Step 7: Model evaluation
